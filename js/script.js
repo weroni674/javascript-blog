@@ -40,3 +40,6 @@
   for(let link of links){
     link.addEventListener('click', titleClickHandler);
   }
+  /*Nie rozumiem logiki js, i po kolei jak się tworzy stałe i zmienne odwołania do poszczególnych elementow html*/
+  /*potrzebuje wytlumaczenia jaka funkcja co robi co zwraca i jak sie czego uzywa*/
+  
